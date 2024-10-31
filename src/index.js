@@ -1,1 +1,3 @@
-console.log("inside index.js file")
+import "./styles.css";
+
+console.log("inside index.js file");
