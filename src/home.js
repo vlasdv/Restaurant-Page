@@ -1,4 +1,4 @@
-import mainImage from "./image.png";
+import mainImage from "./img/image.png";
 
 function createMainPage() {
   // <img src="src/image.png">
